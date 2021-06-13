@@ -19,7 +19,6 @@ export default Vue.extend({
   },
   methods: {
     handleInput(event: InputEvent) {
-      console.log(event);
       // if (!event.target) {
       //   return;
       // }
